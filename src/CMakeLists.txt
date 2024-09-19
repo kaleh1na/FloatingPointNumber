@@ -1,0 +1,1 @@
+add_library(fixedpoint FixedPoint.cpp FloatingPoint.cpp)
